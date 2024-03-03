@@ -29,7 +29,7 @@ public class GmailSender {
 		       properties.put("mail.smtp.auth", true);
 		      
 		       //Step2: to get session object
-		       final String username = "shankar.sharma89202";
+		       final String username = "sample";
 		       final String password = "tohmcvzbjfeybmbu";
 		       Session session= Session.getInstance(properties, new Authenticator() {  
 		    	    @Override
@@ -71,7 +71,7 @@ public class GmailSender {
 	       properties.put("mail.smtp.auth", true);
 	      
 	       //Step2: to get session object
-	       final String username = "shankar.sharma89202";
+	       final String username = "sample";
 	       final String password = "tohmcvzbjfeybmbu";
 	       Session session= Session.getInstance(properties, new Authenticator() {  
 	    	    @Override

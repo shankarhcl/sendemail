@@ -9,8 +9,8 @@ public class App
 {
     public static void main( String[] args )
     {
-        String to = "preeti.pandey68@gmail.com";
-        String from = "shankar.sharma89202@gmail.com";
+        String to = "p@gmail.com";
+        String from = "s@gmail.com";
         String subject = "Send mail using Gmail";
         String message="Preeti mail aa gayi hogi tumhe";
         
